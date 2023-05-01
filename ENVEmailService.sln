@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENVEmailService", "ENVEmailService\ENVEmailService.csproj", "{D0805E0F-1A76-4429-B86D-332CDEADDF79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0805E0F-1A76-4429-B86D-332CDEADDF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0805E0F-1A76-4429-B86D-332CDEADDF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0805E0F-1A76-4429-B86D-332CDEADDF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0805E0F-1A76-4429-B86D-332CDEADDF79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D70AF27-4201-4569-84E4-0F94F9582794}
+	EndGlobalSection
+EndGlobal
